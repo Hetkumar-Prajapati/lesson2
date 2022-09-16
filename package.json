@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  },
+  "name": "l2",
+  "version": "1.0.0",
+  "main": "closedFunction.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
