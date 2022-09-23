@@ -18,7 +18,7 @@ http.createServer((req,res) => {
     res.write(`<p>Sub Total ${accounting.formatMoney(subTotal)} </p>`)
 
     // cal and display 
-    let tax = subtotal * 0.13
+    let tax = subTotal * 0.13
     res.write(`<p> Tax ${tax} </p>`)
 
     // cal and display total 
